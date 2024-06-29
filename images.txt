@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 minio/minio:RELEASE.2024-06-06T09-36-42Z
+apache/skywalking-oap-server:9.7.0
