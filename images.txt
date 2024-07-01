@@ -7,3 +7,5 @@ xhofe/alist:latest
 minio/minio:RELEASE.2024-06-06T09-36-42Z
 minio/minio:RELEASE.2023-09-16T01-01-47Z
 apache/skywalking-oap-server:9.7.0
+derailed/k9s:v0.28.2
+
