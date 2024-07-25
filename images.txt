@@ -11,4 +11,5 @@
 #apache/skywalking-java-agent:9.1.0-alpine
 #mysql:8.0.38
 #mysql:8.0.39
-nginx:1.23.3-alpine
+#nginx:1.23.3-alpine
+nginx:1.23.2-alpine
