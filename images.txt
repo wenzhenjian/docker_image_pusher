@@ -12,4 +12,5 @@
 #mysql:8.0.38
 #mysql:8.0.39
 #nginx:1.23.3-alpine
-nginx:1.23.2-alpine
+#nginx:1.23.2-alpine
+envoyproxy/envoy:v1.28-latest
